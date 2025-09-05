@@ -12,11 +12,14 @@ This repository contains analysis i made based on the jobs i have applied for ov
 FEATURES
 
 - Visualizations: Bar charts, pie charts maps, and KPI's.
-- clear and simple layout for easy understanding.
+- Clear and simple layout for easy understanding.
 
 
 KEY INSIGHTS
-- Jobs in Dubai(United Arab Emirates) have the highest average compensation, at around $6,000 per month 
+- Jobs in Dubai(United Arab Emirates) have the highest average compensation, at around $6,000 per month, followed by Poland, USA and Spain
+- Jobs that required knowledge of Cloud services(AWS, Azure, GCP) compensated higher on average
+- Jobs that required a degree also payed higher on average
+- 
 
 
 TECHNOLOGIES USED
