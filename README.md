@@ -19,7 +19,9 @@ KEY INSIGHTS
 - Jobs in Dubai(United Arab Emirates) have the highest average compensation, at around $6,000 per month, followed by Poland, USA and Spain
 - Jobs that required knowledge of Cloud services(AWS, Azure, GCP) compensated higher on average
 - Jobs that required a degree also payed higher on average
-- 
+- Excel is the most required tool(No Doubt)
+- Nearly 80% of jobs require knowledge of Cloud Services
+- 60% of jobs required knowledge of snowflake which is big, considering snowflake is not a household name in data analysis yet
 
 
 TECHNOLOGIES USED
