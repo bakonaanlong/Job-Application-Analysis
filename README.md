@@ -26,9 +26,9 @@ KEY INSIGHTS
 
 TECHNOLOGIES USED
 
-SQL for cleaning the data(Removing duplicates, handling null values, creating case statements to create new fields)
-Power Query for Transforming the data
-Power BI for Visualization
+- SQL for cleaning the data(Removing duplicates, handling null values, creating case statements to create new fields)
+- Power Query for Transforming the data
+- Power BI for Visualization
 
 DATA SOURCE
 
