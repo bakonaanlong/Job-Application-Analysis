@@ -103,6 +103,8 @@ The underlying dataset is structured around **job postings** with the following 
 
 ### 4.2 Second Dashboard: Compensation & Application Insights
 
+![miage_2](https://github.com/bakonaanlong/Job-Application-Analysis/blob/main/job%20analysis%202%20corrected.JPG)
+
 #### A. Compensation by Geography
 - **Top 5 Highest-Paying Locations**:
   1. **Dubai** (~$110K+ avg)
