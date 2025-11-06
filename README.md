@@ -1,4 +1,4 @@
-# Job Application Analysis Dashboard README
+# Job Application Analysis Dashboard
 
 ## 1. Background and Overview
 
