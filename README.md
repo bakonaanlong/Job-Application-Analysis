@@ -4,7 +4,7 @@
 
 This dashboard provides a comprehensive visual analysis of job market trends based on real-world job application data I scraped from a job application site.
 
-The analysis focuses on **data-centric roles** (e.g., data analysts, data engineers, BI developers) and explores key dimensions including:
+The analysis focuses on **data-centric roles** i applied for (e.g., data analysts, DBA, data engineer) and explores key dimensions including:
 - Geographic job density
 - Required skills and tools
 - Work arrangements (full-time, part-time, contract)
@@ -16,16 +16,15 @@ The dashboard is split across **two primary views**:
 1. **Job Market Landscape** – Focuses on skills, hours, geography, and cloud adoption.
 2. **Compensation & Application Insights** – Analyzes salary trends, job types, and income distribution.
 
-**Data Source**: Aggregated job postings (likely from LinkedIn or similar platforms).  
+**Data Source**: LinkedIn.  
 **Tool**: Microsoft Power BI  
 **Author**: Bako Naanlong  
-**Last Updated**: November 2025  
 
 ---
 
 ## 2. Data Structure Overview
 
-The underlying dataset is structured around **job postings** with the following inferred fields (based on visualized metrics):
+The underlying dataset is structured around **job postings** with the following fields:
 
 | Field | Description | Data Type | Example |
 |------|-------------|-----------|---------|
@@ -148,20 +147,9 @@ The underlying dataset is structured around **job postings** with the following 
 3. **Offer competitive pay in emerging markets** to attract global remote talent.
 4. **Highlight tools explicitly** — especially Power BI, Python, Snowflake for advanced roles.
 
-### For Educators & Bootcamps
-1. **Core curriculum must include**:
-   - Excel (Advanced)
-   - SQL (Joins, CTEs, Window Functions)
-   - Power BI or Tableau
-   - Basic Python (pandas, visualization)
-2. **Add cloud fundamentals** (AWS/GCP free tiers) to align with premium job market.
-3. **Emphasize portfolio projects** over formal credentials.
 
 ---
 
 **Dashboard File**: `Job_Application_Analysis.pbix`  
 **Author**: Bako Naanlong  
-**Contact**: [LinkedIn Profile]  
-**License**: For internal review and educational use  
-
-*This document is auto-generated based on visual analysis of the Power BI dashboard. All interpretations are derived from displayed metrics and standard data visualization principles.*
+ 
