@@ -65,6 +65,8 @@ The underlying dataset is structured around **job postings** with the following 
 
 ### 4.1 First Dashboard: Job Market Landscape
 
+![image_1](https://github.com/bakonaanlong/Job-Application-Analysis/blob/main/job%20analysis.JPG)
+
 #### A. Geographic Job Density
 - **Europe** and **North America** show the highest concentration of data-related roles.
 - **Asia** has moderate density, led by India and East Asia.
