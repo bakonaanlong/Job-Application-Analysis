@@ -2,7 +2,7 @@
 
 ## 1. Background and Overview
 
-This dashboard, titled **"Job Application Analysis"**, was developed by **Bako Naanlong** using **Microsoft Power BI** (© 2025 Joon Kim, Microsoft Corporation, @JoonSketches, Tampa). It provides a comprehensive visual analysis of job market trends based on real-world job application data scraped or collected from professional platforms such as LinkedIn.
+This dashboard provides a comprehensive visual analysis of job market trends based on real-world job application data I scraped from a job application site.
 
 The analysis focuses on **data-centric roles** (e.g., data analysts, data engineers, BI developers) and explores key dimensions including:
 - Geographic job density
