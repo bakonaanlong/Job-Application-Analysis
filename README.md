@@ -2,7 +2,7 @@
 
 ## 1. Background and Overview
 
-This dashboard provides a comprehensive visual analysis of job market trends based on real-world job application data I scraped from a job application site.
+This dashboard provides a comprehensive visual analysis of job market trends based on real-world job application data I scraped from a job application site. Data was visualized in PowerBI
 
 The analysis focuses on **data-centric roles** I applied for (e.g., data analysts, DBA, data engineer) and explores key dimensions including:
 - Geographic job density
